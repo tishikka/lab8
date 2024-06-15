@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/proga/laba-8/8-3/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -IC:/proga/laba-8/8-3/OpenCV_LIBS -isystem C:/msys64/mingw64/include/opencv4 -g -o CMakeFiles\\img.dir\\main.cpp.obj -c C:\\proga\\laba-8\\8-3\\main.cpp",
+  "file": "C:\\proga\\laba-8\\8-3\\main.cpp",
+  "output": "CMakeFiles\\img.dir\\main.cpp.obj"
+}
+]

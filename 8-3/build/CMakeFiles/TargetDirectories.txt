@@ -1,0 +1,3 @@
+C:/proga/laba-8/8-3/build/CMakeFiles/img.dir
+C:/proga/laba-8/8-3/build/CMakeFiles/edit_cache.dir
+C:/proga/laba-8/8-3/build/CMakeFiles/rebuild_cache.dir
